@@ -1,0 +1,12 @@
+C:\Users\rjh55\source\repos\Jack Testing Code\bin\Debug\Jack Testing Code.exe.config
+C:\Users\rjh55\source\repos\Jack Testing Code\bin\Debug\Jack Testing Code.exe
+C:\Users\rjh55\source\repos\Jack Testing Code\bin\Debug\Jack Testing Code.pdb
+C:\Users\rjh55\source\repos\Jack Testing Code\bin\Debug\LLRP.dll
+C:\Users\rjh55\source\repos\Jack Testing Code\bin\Debug\MercuryAPI.dll
+C:\Users\rjh55\source\repos\Jack Testing Code\bin\Debug\MercuryAPI.pdb
+C:\Users\rjh55\source\repos\Jack Testing Code\bin\Debug\MercuryAPI.xml
+C:\Users\rjh55\source\repos\Jack Testing Code\obj\Debug\Jack Testing Code.csprojAssemblyReference.cache
+C:\Users\rjh55\source\repos\Jack Testing Code\obj\Debug\Jack Testing Code.csproj.CoreCompileInputs.cache
+C:\Users\rjh55\source\repos\Jack Testing Code\obj\Debug\Jack Testing Code.csproj.CopyComplete
+C:\Users\rjh55\source\repos\Jack Testing Code\obj\Debug\Jack Testing Code.exe
+C:\Users\rjh55\source\repos\Jack Testing Code\obj\Debug\Jack Testing Code.pdb
