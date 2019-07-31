@@ -25,7 +25,6 @@ namespace Jack_Testing_Code
 
                 for (; ; )
                 {
-
                     int readerAngle = Int32.Parse(grabInput("What is the reader angle (e.g. 50) "));
                     int readerRange = Int32.Parse(grabInput("What is the reader range (e.g. 50) "));
                     instance.Go(comPort, dur, checkBitEnable, readerRange, readerAngle);
